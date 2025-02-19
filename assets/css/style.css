@@ -379,8 +379,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     font-size: 24px;
     font-weight: 600;
     text-transform: uppercase;
-    padding-bottom: 50px;
     border-bottom: 1px solid #e5ebf2;
+    padding-bottom: 20px;
 }
 .single-progress-txt {
     display: flex;
@@ -865,4 +865,18 @@ a.poem:hover {
     color: blue;
     text-decoration: underline;
 }
+
+.about-content{
+    padding-top: 80px;
+}
+
+.single-contact-box{
+    text-align: center;
+}
+
+section#contact{
+    padding-bottom: 0px;
+}
+
+
 /*========================Thank you=================
